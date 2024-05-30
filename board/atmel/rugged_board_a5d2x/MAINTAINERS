@@ -1,0 +1,14 @@
+RUGGED BOARD A5D2X
+M:	Eugen Hristev <eugen.hristev@microchip.com>
+S:	Maintained
+F:	board/atmel/rugged_board_a5d2x/
+F:	include/configs/rugged_board_a5d2x.h
+F:	configs/rugged_board_a5d2x_mmc_defconfig
+F:	configs/sama5d27_som1_ek_mmc1_defconfig
+F:	configs/sama5d27_som1_ek_qspiflash_defconfig
+
+SAMA5D27 GIANT BOARD
+M:	Greg Gallagher <greg@embeddedgreg.com>
+S:	Maintained
+F:	configs/sama5d27_giantboard_defconfig
+F:	arch/arm/dts/at91-sama5d27_giantboard.dts
